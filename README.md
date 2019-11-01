@@ -1,3 +1,4 @@
+[![Build Status](https://iiliev.visualstudio.com/DevOpsExams/_apis/build/status/iliyansi.mslearn-tailspin-spacegame-web?branchName=master)](https://iiliev.visualstudio.com/DevOpsExams/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
